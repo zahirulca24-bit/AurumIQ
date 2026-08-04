@@ -1,1 +1,1 @@
-# AurumIQ.
+# AurumIQ
