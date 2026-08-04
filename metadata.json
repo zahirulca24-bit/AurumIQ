@@ -1,0 +1,6 @@
+{
+  "name": "QuantPilot",
+  "description": "Commodities, metals, oil, and stocks market dashboard UI",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
